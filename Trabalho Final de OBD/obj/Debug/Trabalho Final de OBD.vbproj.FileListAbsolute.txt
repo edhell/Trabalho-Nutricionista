@@ -1,0 +1,17 @@
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\obj\Debug\Trabalho Final de OBD.vbprojAssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\obj\Debug\Trabalho_Final_de_OBD.Form1.resources
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\obj\Debug\Trabalho_Final_de_OBD.Resources.resources
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\obj\Debug\Trabalho Final de OBD.vbproj.GenerateResource.cache
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\obj\Debug\Trabalho Final de OBD.vbproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\bin\Debug\Trabalho Final de OBD.exe.config
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\bin\Debug\Trabalho Final de OBD.exe
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\bin\Debug\Trabalho Final de OBD.pdb
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\bin\Debug\Trabalho Final de OBD.xml
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\bin\Debug\Google.Protobuf.dll
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\bin\Debug\MySql.Data.dll
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\bin\Debug\Google.Protobuf.xml
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\bin\Debug\MySql.Data.xml
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\obj\Debug\Trabalho Final de OBD.vbproj.CopyComplete
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\obj\Debug\Trabalho Final de OBD.exe
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\obj\Debug\Trabalho Final de OBD.xml
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Trabalho Final de OBD\Trabalho Final de OBD\obj\Debug\Trabalho Final de OBD.pdb
